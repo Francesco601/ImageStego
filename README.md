@@ -9,7 +9,7 @@ To run the program, ensure that you have Tkinter and the other modules installed
 
 Finally, run 
 
-``bash
+```bash
   python imagestego.py  
  ```
 
