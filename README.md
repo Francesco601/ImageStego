@@ -10,6 +10,6 @@ To run the program, ensure that you have Tkinter and the other modules installed
 Finally, run 
 
 ```bash
-  python imagestego.py  
+  python imgstego.py  
  ```
 
