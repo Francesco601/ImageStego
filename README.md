@@ -1,4 +1,4 @@
-# ImageStego
+# Stegohide
 
  Steganography is the practice of concealing sensitive information within another message or physical object to avoid detection. It can be used to hide virtually any type of digital content, including text, image, video, or audio content. That hidden data is then extracted at its destination. In computing/electronic contexts, a computer file, message image, or video is concealed within another file, message, image or video. 
 
